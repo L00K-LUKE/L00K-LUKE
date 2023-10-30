@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello :)
+
+Two truths and a lie:
+- I'm currently studying Computer Science at the University of Glasgow.
+- I'm new to Github but excited to learn more and hopefully contribute to some cool stuff.
+- I'm not sure how to end this.
+
 
 <!--
 **BUCKYTANNER/BUCKYTANNER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
