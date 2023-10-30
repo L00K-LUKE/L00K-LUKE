@@ -1,4 +1,4 @@
-Hello :)
+Hello!
 
 Two truths and a lie:
 - I'm an undergrad Computer Science student at the University of Glasgow.
