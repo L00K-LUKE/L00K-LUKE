@@ -1,9 +1,5 @@
 Hello!
 
-Two truths and a lie:
-- I'm an undergrad Computer Science student at the University of Glasgow.
-- I'm new to Github but excited to learn more and hopefully contribute to some cool stuff.
-- I'm not sure how to end this.
 
 
 <!--
