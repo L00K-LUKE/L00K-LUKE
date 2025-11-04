@@ -1,3 +1,3 @@
 Hello!
 
-I'm Luke, and im a 3rd year Computer Science student at University of Glasgow.
+I'm Luke, and im 4th year Computer Science student at University of Glasgow.
